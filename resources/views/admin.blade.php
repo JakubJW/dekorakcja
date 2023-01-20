@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Work in progres</h1>
+    <div id="admin"></div>
+    @vite('resources/js/admin.js')
 </body>
 </html>
